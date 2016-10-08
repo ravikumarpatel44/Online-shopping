@@ -1,0 +1,246 @@
+body{
+    padding: 0px;
+    margin: 0px;
+     
+    }
+    #header{
+         height: 360px;
+        background-color: white;
+        position: relative;
+    
+
+
+    }
+    #header1{
+      position: relative;
+      height: 130px;
+      background-color: blue;
+  
+
+    }
+    
+    .log{
+        position: absolute;
+        margin-left: 1050px;
+        margin-top: 5px;
+        background-color: blue;
+        border: 0px;
+       
+ 
+    }
+     .log button.track{
+        
+       background-color: blue;
+       border: 0px;
+       color: white;
+       font-size: 13px;       
+   
+     }
+     
+    .log button.notification{
+         background-color: transparent;
+         border: 0px;
+         color: white;
+               
+
+    } 
+   .log button.signup{
+
+    background-color: blue;
+    border: 0px;
+    color: white;
+    font-size: 13px;
+
+   }
+   .log button.login{
+
+    background-color: blue;
+    border: 0px;
+    color: white;
+    font-size: 13px;
+   }
+ .logo{
+   margin-left: 40px;
+   position: absolute;
+  margin-top: 19px;
+
+ }
+
+
+   .search{
+   	position: absolute;
+   	/*top: 30px;*/
+    margin-top: 38px;
+   	align-items: center;
+   	margin-left: 240px;
+}
+.search input.srch{
+	width: 800px;
+	height: 42px;
+	border-radius: 3px;
+	border: 0px;
+	font-size: 16px;
+}
+.search button.btn{
+      border-radius: 3px;
+	  width: 100px;
+	  height: 40px; 
+	  border: 0px;
+	  color: white;
+	  background-color: #ffe11b;;
+
+}
+.search button.btn1{
+      border-radius: 3px;
+	  width: 120px;
+	  height: 40px;
+	  color: white;
+	  border: 0px;
+	  background-color: #2469d9; 
+
+}
+
+
+    #header1 .menu{
+       
+       position: absolute;
+      top: 80px;
+      width: 100%;
+      padding-left: 160px;
+      padding-right: 160px;
+
+
+    }
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   /* background-color: #333;*/
+}
+
+li {
+    float: left;
+
+
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    margin-left: 3px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: blue;
+    text-decoration: none;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+    #header2{
+    
+       height: 271px;
+       width: 100%;
+       margin-left: 0px;
+       background-color:white;
+      /* margin-top: 5px;*/
+
+    }
+
+.bodypart{
+
+	  background-color: white;
+	  /*height: 500px;*/
+  
+
+} 
+.bodyr1{
+  
+   background-color: white;
+   height: 250px;  
+   margin-top: 10px;
+   border-top: 15px solid #E6E6FA;
+
+}   
+
+
+
+   .first{
+
+    background-color: white;
+
+
+   }
+  .div1{
+       float: left;
+       margin-left: 32px;
+       text-align: center;
+       background-color: #f3f3f3;
+   
+   }
+   .prise{
+       background-color: white;
+       margin-top: 20px;
+       height: 50px;
+      text-align: center;
+
+   }
+   .carousel-control.right{
+     background: none !important;
+
+   }
+   .carousel-control.left{
+     background: none !important;
+
+   }
+   
+   .item1 {
+   overflow: hidden;
+
+}
+.item1 img {
+
+  
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.item1:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.bodyr2{
+
+   margin-top: 60px;
+   background-color: white;
+   border-top: 15px solid #E6E6FA;
+
+}
