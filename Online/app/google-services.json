@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991237361007",
+    "firebase_url": "https://traveldairies-a7abd.firebaseio.com",
+    "project_id": "traveldairies-a7abd",
+    "storage_bucket": "traveldairies-a7abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991237361007:android:620a6976980a4131",
+        "android_client_info": {
+          "package_name": "com.jsrathore.traveldairies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991237361007-ldiu4004crr0roarobm9krmas4ivodqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7STPoSNwAYBGh23BgIuV0bvsxSUPwwu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
